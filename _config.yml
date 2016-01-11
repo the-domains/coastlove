@@ -1,0 +1,28 @@
+name: CoastLove
+favicon: null
+layout_spectrum: 0.7830871511250734
+typography_spectrum: 0.5166568900458515
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9151737168431282
+  lightness: 0.8834373066201806
+  saturation: 0.04092688765376806
+  rhythmicContrast: 0.05190517986193299
+purpose: []
