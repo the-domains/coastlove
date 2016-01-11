@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CoastLove]]></title>
+        <description><![CDATA[CoastLove]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jan 2016 17:52:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coast Love]]></title>
+            <description><![CDATA[<article><h1>Coast Love</h1><p>The Sunshine Coast has been my home since the late 1980s. I was a city girl who came here for a summer job and never left - because in my heart I am a small town girl, and Sechelt is the small town I chose in which to create an amazing life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1c19e338a4e014edbf2daf3f6b9a1dfa24e7edf.jpg"></article>]]></description>
+            <link>undefinedcoast-love/index.html</link>
+            <guid isPermaLink="false">1b170cec-ba80-4579-b084-177e461e45a5</guid>
+            <pubDate>Mon, 11 Jan 2016 17:52:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
